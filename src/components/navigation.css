@@ -1,0 +1,21 @@
+.navigation {
+    background-color: #000000;
+}
+
+.navigation-item {
+    padding: 0.5rem 1rem;
+    background: #ab4aec;
+    text-decoration: none;
+    color: #9ad7f8;
+}
+
+.navigation-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navigation-item--active {
+    background:#ffffff;
+    color:#000000; 
+}
